@@ -26,6 +26,8 @@ Created a report with the following visuals:
 
 ## Conclusion
 This project provided valuable insights into the sales and market dynamics of the online retail store. By addressing the specific needs of both the CEO and CMO, the report offers actionable recommendations for marketing strategies and business expansion.
+![forage TATA retail store analysis](https://github.com/user-attachments/assets/333d52f8-0a77-482f-bdfc-b2050a50530a)
+
 
 ## Acknowledgments
 Special thanks to Forage for providing the opportunity to work on this project.
